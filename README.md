@@ -7,7 +7,7 @@ I'm Jolly Sim,  a Senior Backend Developer and Software Engineer from <img src="
 - 🌱 I’m planning to learn about Mobile Technologies such as Swift, React Native and so on.
 - 💬 Ping me about Node.js, MongoDB, React.js, and Python.
 - 📙 Please check out my [resume](https://github.com/user-attachments/files/16170355/JollySimResume_1.pdf).
-- 📫 Reach out to me on [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
+- 📫 Reach out to me on Skype or Discord.
 
 ## 🛠️ Tools & Technologies
 <details>
