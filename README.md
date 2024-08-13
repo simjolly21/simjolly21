@@ -38,12 +38,6 @@ I'm Jolly Sim,  a Senior Backend Developer and Software Engineer from <img src="
 
 </details>
 
-## 📝 Medium Blogs
-<!-- MEDIUM-STORY-LIST:START -->
-- [10 Best Sub-Reddits To Help To Grow As A Developer](https://levelup.gitconnected.com/10-best-sub-reddits-to-help-to-grow-as-a-developer-984b0b684683?source=rss-62889aba2ad1------2)
-- [9 Best Developer Communities On Discord](https://levelup.gitconnected.com/9-best-developer-communities-on-discord-c673b8ab3a1c?source=rss-62889aba2ad1------2)
-<!-- MEDIUM-STORY-LIST:END -->
-
 <!---
 simjolly21/simjolly21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
