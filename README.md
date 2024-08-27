@@ -6,7 +6,7 @@ I'm Jolly Sim,  a Senior Full-Stack Developer and Software Engineer from <img sr
 - 🔭 I’m currently working in Singapore. [simjolly21](https://github.com/simjolly21) is my GitHub work account.
 - 🌱 I plan to learn about Mobile Technologies such as Swift, React Native, and so on.
 - 💬 Ping me about Node.js, MongoDB, React.js, and Python.
-- 📙 Please check out my [resume](https://github.com/user-attachments/files/16170355/JollySimResume_1.pdf).
+- 📙 Please check out my resume.
 - 📫 Reach out to me on Skype or Discord.
 
 ## 🛠️ Tools & Technologies
