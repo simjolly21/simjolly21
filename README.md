@@ -1,10 +1,10 @@
 
 ## Hi 👋, I'm Jolly
-I'm Jolly Sim,  a Senior Backend Developer and Software Engineer from <img src="https://github.com/simjolly21/simjolly21/assets/174801046/1f91b321-326f-4567-aaea-c026b015af3c" width="14px">  _Singapore_.
+I'm Jolly Sim,  a Senior Full-Stack Developer and Software Engineer from <img src="https://github.com/simjolly21/simjolly21/assets/174801046/1f91b321-326f-4567-aaea-c026b015af3c" width="14px">  _Singapore_.
 
 ## 🧐 About Me
-- 🔭 I’m currently working in Singapore. [simjolly21](https://github.com/simjolly21) is my github work account.
-- 🌱 I’m planning to learn about Mobile Technologies such as Swift, React Native and so on.
+- 🔭 I’m currently working in Singapore. [simjolly21](https://github.com/simjolly21) is my GitHub work account.
+- 🌱 I plan to learn about Mobile Technologies such as Swift, React Native, and so on.
 - 💬 Ping me about Node.js, MongoDB, React.js, and Python.
 - 📙 Please check out my [resume](https://github.com/user-attachments/files/16170355/JollySimResume_1.pdf).
 - 📫 Reach out to me on Skype or Discord.
