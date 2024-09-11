@@ -1,6 +1,6 @@
 
 ## Hi 👋, I'm Jolly
-I'm Jolly Sim,  a Senior Backend Developer and Software Engineer from <img src="https://github.com/simjolly21/simjolly21/assets/174801046/1f91b321-326f-4567-aaea-c026b015af3c" width="14px">  _Singapore_.
+I'm Jolly Sim,  a Senior Full-stack Developer from <img src="https://github.com/simjolly21/simjolly21/assets/174801046/1f91b321-326f-4567-aaea-c026b015af3c" width="14px">  _Singapore_.
 
 ## 🧐 About Me
 - 🔭 I’m currently working in Singapore. [simjolly21](https://github.com/simjolly21) is my GitHub work account.
