@@ -15,8 +15,6 @@ Highly skilled in **Full-stack Development** with extensive experience in design
 
 <center>🥇 "Success is crafted with intention."🥇</center>
 
-
-
 Dedicated to applying best practices in software architecture, clean code, and agile development processes to deliver impactful, quality-driven solutions.
 
 ## 🧐 About Me
