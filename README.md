@@ -6,7 +6,6 @@ Highly skilled in **Full-stack Development** with extensive experience in design
 
 🚀 I am a Senior Full-Stack Developer with over a decade of experience in building scalable, high-performance applications that enhance user experience and drive business success. 
 
-
 My expertise spans Python, JavaScript, React, Next.js, Vue.js, TypeScript, Node.js, and SQL/NoSQL, with a strong focus on writing clean, maintainable code and optimizing system performance.
 
 
