@@ -13,9 +13,13 @@ My expertise spans Python, JavaScript, React, Next.js, Vue.js, TypeScript, Node.
 
 
 ✅ Led full-stack development initiatives, building robust and scalable applications.
+
 ✅ Enhanced front-end architectures to improve user engagement and performance.
+
 ✅ Designed and optimized backend solutions that drive efficiency and scalability.
+
 ✅ Worked with cloud-based infrastructures and modern web technologies to build seamless digital experiences.
+
 🔍 Passionate about solving complex challenges, I thrive in dynamic environments that require creative problem-solving, technical leadership, and seamless collaboration. With a keen eye for innovation and performance, I bring both creativity and technical expertise to every project, ensuring that your vision is not just realized but elevated.
 
 🥇 "Success is crafted with intention."🥇
