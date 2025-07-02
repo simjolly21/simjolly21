@@ -2,7 +2,7 @@
 ## Hi 👋, I'm Jolly
 I'm Jolly Sim,  a Senior Full-stack Developer from <img src="https://github.com/simjolly21/simjolly21/assets/174801046/1f91b321-326f-4567-aaea-c026b015af3c" width="14px">  _Singapore_.
 
-Highly skilled in **Full-stack Web Development** with extensive experience in designing and implementing scalable, high-performance applications. Expertise includes building robust front-end interfaces and reliable backend services, ensuring seamless integration, optimized user experiences, and efficient data management. 
+Highly skilled in **Full-stack Development** with extensive experience in designing and implementing scalable, high-performance applications. Expertise includes building robust front-end interfaces and reliable backend services, ensuring seamless integration, optimized user experiences, and efficient data management. 
 
 Dedicated to applying best practices in software architecture, clean code, and agile development processes to deliver impactful, quality-driven solutions.
 
