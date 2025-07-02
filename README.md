@@ -4,10 +4,15 @@ I'm Jolly Sim,  a Senior Full-stack Developer from <img src="https://github.com/
 
 Highly skilled in **Full-stack Development** with extensive experience in designing and implementing scalable, high-performance applications. Expertise includes building robust front-end interfaces and reliable backend services, ensuring seamless integration, optimized user experiences, and efficient data management.
 
-🚀 I am a Senior Full-Stack Developer with over a decade of experience in building scalable, high-performance applications that enhance user experience and drive business success. My expertise spans Python, JavaScript, React, Next.js, Vue.js, TypeScript, Node.js, and SQL/NoSQL, with a strong focus on writing clean, maintainable code and optimizing system performance.
+🚀 I am a Senior Full-Stack Developer with over a decade of experience in building scalable, high-performance applications that enhance user experience and drive business success. 
+
+
+My expertise spans Python, JavaScript, React, Next.js, Vue.js, TypeScript, Node.js, and SQL/NoSQL, with a strong focus on writing clean, maintainable code and optimizing system performance.
 
 
 💡 Throughout my career, I have collaborated with leading companies, delivering complex projects that demand technical excellence and innovation. I have:
+
+
 ✅ Led full-stack development initiatives, building robust and scalable applications.
 ✅ Enhanced front-end architectures to improve user engagement and performance.
 ✅ Designed and optimized backend solutions that drive efficiency and scalability.
