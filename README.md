@@ -14,7 +14,6 @@ Highly skilled in **Full-stack Development** with extensive experience in design
 
 🥇 "Success is crafted with intention."🥇
 
-
 🖥️ My Technical Skills:
 ⚙️ Backend Development:
       💠 Python/Django • Node.js • Nest.js • Express.js • PHP/Laravel • Java/Spring • .NET • Ruby on Rails
@@ -35,6 +34,7 @@ Highly skilled in **Full-stack Development** with extensive experience in design
 
     
 ## 🧐 About Me
+
 - 🔭 I’m currently working in Singapore. [simjolly21](https://github.com/simjolly21) is my GitHub work account.
 - 🌱 I plan to learn about Mobile Technologies such as Swift, React Native, and so on.
 - 💬 Ping me about Node.js, MongoDB, React.js, and Python.
