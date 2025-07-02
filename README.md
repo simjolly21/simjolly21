@@ -17,6 +17,8 @@ Highly skilled in **Full-stack Development** with extensive experience in design
 🥇 "Success is crafted with intention."🥇
 
 🖥️ My Technical Skills:
+
+
 ⚙️ Backend Development:
       💠 Python/Django • Node.js • Nest.js • Express.js • PHP/Laravel • Java/Spring • .NET • Ruby on Rails
 🖥️ Frontend Development:
