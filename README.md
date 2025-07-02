@@ -17,6 +17,24 @@ Highly skilled in **Full-stack Development** with extensive experience in design
 
 Dedicated to applying best practices in software architecture, clean code, and agile development processes to deliver impactful, quality-driven solutions.
 
+🖥️ My Technical Skills:
+⚙️ Backend Development:
+      💠 Python/Django • Node.js • Nest.js • Express.js • PHP/Laravel • Java/Spring • .NET • Ruby on Rails
+🖥️ Frontend Development:
+      💠 Core Web Technologies: HTML5 • CSS3 • JavaScript • TypeScript
+      💠 Libraries & Frameworks: React.js • Angular.js • Vue.js • Next.js
+      💠 Styling & UI Frameworks: SASS • Tailwind CSS • Bootstrap
+🗄️ Database Management: 
+      💠 SQL • MySQL • PostgreSQL • MongoDB • Redis • GraphQL • Firebase
+☁️  Cloud & DevOps: 
+      💠 Azure • AWS • GCP(Google Cloud Platform) • CI/CD • Docker
+🛠️ Version Control: 
+      💠 Git • GitHub • GitLab • Bitbucket
+📊 Project Management & Collaboration: 
+      💠 Jira • Confluence
+🎨 UI/UX Tools: 
+      💠 Figma
+    
 ## 🧐 About Me
 - 🔭 I’m currently working in Singapore. [simjolly21](https://github.com/simjolly21) is my GitHub work account.
 - 🌱 I plan to learn about Mobile Technologies such as Swift, React Native, and so on.
