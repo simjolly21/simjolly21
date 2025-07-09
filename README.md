@@ -35,13 +35,13 @@ My expertise spans Python, JavaScript, React, Next.js, Vue.js, TypeScript, Node.
       💠 Styling & UI Frameworks: SASS • Tailwind CSS • Bootstrap
 - 🗄️ Database Management: 
       💠 SQL • MySQL • PostgreSQL • MongoDB • Redis • GraphQL • Firebase
-☁️  Cloud & DevOps: 
+- ☁️  Cloud & DevOps: 
       💠 Azure • AWS • GCP(Google Cloud Platform) • CI/CD • Docker
-🛠️ Version Control: 
+- 🛠️ Version Control: 
       💠 Git • GitHub • GitLab • Bitbucket
-📊 Project Management & Collaboration: 
+- 📊 Project Management & Collaboration: 
       💠 Jira • Confluence
-🎨 UI/UX Tools: 
+- 🎨 UI/UX Tools: 
       💠 Figma
 
     
