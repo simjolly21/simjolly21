@@ -27,13 +27,13 @@ My expertise spans Python, JavaScript, React, Next.js, Vue.js, TypeScript, Node.
 🖥️ My Technical Skills:
 
 
-⚙️ Backend Development:
+- ⚙️ Backend Development:
       💠 Python/Django • Node.js • Nest.js • Express.js • PHP/Laravel • Java/Spring • .NET • Ruby on Rails
-🖥️ Frontend Development:
+- 🖥️ Frontend Development:
       💠 Core Web Technologies: HTML5 • CSS3 • JavaScript • TypeScript
       💠 Libraries & Frameworks: React.js • Angular.js • Vue.js • Next.js
       💠 Styling & UI Frameworks: SASS • Tailwind CSS • Bootstrap
-🗄️ Database Management: 
+- 🗄️ Database Management: 
       💠 SQL • MySQL • PostgreSQL • MongoDB • Redis • GraphQL • Firebase
 ☁️  Cloud & DevOps: 
       💠 Azure • AWS • GCP(Google Cloud Platform) • CI/CD • Docker
