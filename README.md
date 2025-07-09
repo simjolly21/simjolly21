@@ -55,6 +55,8 @@ My expertise spans Python, JavaScript, React, Next.js, Vue.js, TypeScript, Node.
 
 ## 🛠️ Tools & Technologies
 <details>
+
+      
   <summary>More Info</summary>
 
   ### Things I code with: 
