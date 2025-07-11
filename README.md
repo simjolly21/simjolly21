@@ -22,7 +22,7 @@ My expertise spans Python, JavaScript, React, Next.js, Vue.js, TypeScript, Node.
 
 🔍 Passionate about solving complex challenges, I thrive in dynamic environments that require creative problem-solving, technical leadership, and seamless collaboration. With a keen eye for innovation and performance, I bring both creativity and technical expertise to every project, ensuring that your vision is not just realized but elevated.
 
-<h3>🥇 "Success is crafted with intention"🥇</h3>
+<h2>🥇 Success is crafted with intention🥇</h2>
 
 🖥️ My Technical Skills:
 
